@@ -4,7 +4,6 @@
   <img src="./assets/banner.png" width="100%" alt="MD. NAHID Hassan - Data Science Portfolio">
 </p>
 
-```html
 <p align="center">
   <a href="https://github.com/Nahidhassn">
     <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"
